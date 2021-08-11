@@ -1,1 +1,1 @@
-byeparvez;
+bye bye parvez;
