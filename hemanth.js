@@ -1,0 +1,1 @@
+var dont_chill = "work hard first";
